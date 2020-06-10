@@ -1,0 +1,50 @@
+.user-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border: 1px dotted gray;
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+   
+}
+.user-profile{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+   
+
+}
+.user-profile>img{
+    width: 200px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.user-profile>h3{
+    margin-top: 0px;
+    color:lightslategray;
+}
+.btn-visit-github-profile{
+    padding: 10px 15px 10px 15px;
+    font-size: 15px;
+    font-weight: bold;  
+   cursor: pointer;
+    background-color: black;
+    color: white;
+    outline-style: none;    
+}
+.btn-visit-github-profile:hover{
+    background-color: grey
+}
+.user-detail{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+    
+}

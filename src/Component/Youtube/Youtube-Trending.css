@@ -1,0 +1,94 @@
+.Trending-row{
+    -moz-box-shadow: 0px 10px 35px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 0px 10px 35px rgba(0, 0, 0, .5);
+    box-shadow: 0px 10px 35px rgba(0, 0, 0, .5);
+}
+.trending-video{
+  
+    margin-right: -15px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.youtube-img{
+    width: 90%;
+    z-index: 1;
+    position: relative;
+    
+    
+}
+.trending-box{
+    display: contents;
+}
+.Trending-row{
+    display: flex;
+  
+   
+}
+.Trending-title{
+    margin-top: 5px;
+   
+}
+.visible{
+    display: block;
+}
+.trendinghover-img{
+    display: none;
+    z-index: 3;
+    padding-top: 0px;
+    margin-left: 180px;
+    position: absolute;
+}
+
+.trending-video:hover .trendinghover-img{
+    display: block;
+    
+}
+
+.video-link{
+    cursor: pointer;
+}
+
+label{
+    margin-top: 5px;
+}
+.title{
+    color: black;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.6rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp:2;
+    max-width: 10rem;
+    max-height: 3.2rem;
+    -webkit-box-ordinat: vertical;
+    
+   
+    
+}
+.channel-link{
+    margin-top: -5px;
+}
+.ch-link:hover{
+  
+    cursor: pointer;
+  
+}
+
+.time-post{
+    
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.8rem;
+    text-align: left;
+   
+}
+.time-post:hover{
+    cursor: pointer;
+}
+.timepost{
+    margin-top: -5px;
+}
+

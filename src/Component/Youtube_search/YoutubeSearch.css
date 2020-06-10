@@ -1,0 +1,16 @@
+.youtube_search_tilte{
+    margin: 0 0 0 5px;
+    width: 100%;
+    display: -webkit-box;
+    color: black;
+    max-height: 3.2rem;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.6rem;
+    max-width: 30rem;
+}

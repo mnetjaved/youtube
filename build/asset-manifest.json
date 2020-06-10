@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24aef248.chunk.css",
+    "main.js": "/static/js/main.1d4b5b7d.chunk.js",
+    "main.js.map": "/static/js/main.1d4b5b7d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.aabd6141.chunk.js": "/static/js/2.aabd6141.chunk.js",
+    "static/js/2.aabd6141.chunk.js.map": "/static/js/2.aabd6141.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac73574556814e3e8487a075b4668c45.js": "/precache-manifest.ac73574556814e3e8487a075b4668c45.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.24aef248.chunk.css.map": "/static/css/main.24aef248.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/ytlogo.png": "/static/media/ytlogo.71b0fc24.png"
+  }
+}
